@@ -44,13 +44,14 @@ For each scan, we provide the 3D model (****.obj) along with the corresponding t
 If you use this dataset for your research, please consider citing:
 ```
 @article{deepcloth_su2022,
-  title={{DeepCloth}: Neural Garment Representation for Shape and Style Editing},
-  author={Zhaoqi Su and Tao Yu and Yangang Wang and Yebin Liu},
-  doi = {10.1109/tpami.2022.3168569},
-  url = {https://doi.org/10.1109/tpami.2022.3168569},
-  publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
-  journal = {{IEEE} Transactions on Pattern Analysis and Machine Intelligence},
-  year={2022},
+  author={Su, Zhaoqi and Yu, Tao and Wang, Yangang and Liu, Yebin},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={DeepCloth: Neural Garment Representation for Shape and Style Editing}, 
+  year={2023},
+  volume={45},
+  number={2},
+  pages={1581-1593},
+  doi={10.1109/TPAMI.2022.3168569}
 }
 ```
 
