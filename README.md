@@ -27,14 +27,14 @@ By requesting for the link, you acknowledge that you have read the agreement, un
 
 
 ### Data Explanation
-THuman3.0 Dataset contains 20 combinations of human-garment, each contains 15 to 35 high-quality human scans captured by a dense DLSR rig.
+THuman3.0 Dataset contains 20 combinations of human-garment, each contains 15 to 35 high-quality human scans captured by a dense DSLR rig.
 For each scan, we provide the 3D model (****.obj) along with the corresponding texture map (tex.png).
 
 
 ### Related Datasets from THU3DV Lab [[Link]](http://liuyebin.com/)
 [[MultiHuman Dataset]](https://github.com/y-zheng18/MultiHuman-Dataset/) Containing 453 high-quality scans, each contains 1-3 persons. The dataset can be used to train and evaluate multi-person reconstruction algorithms.
 
-[[THuman2.0 Dataset]](https://github.com/ytrock/THuman2.0-Dataset) Containing 500 high-quality human scans captured by a dense DLSR rig, with SMPL-X fitting parameters. 
+[[THuman2.0 Dataset]](https://github.com/ytrock/THuman2.0-Dataset) Containing 500 high-quality human scans captured by a dense DSLR rig, with SMPL-X fitting parameters. 
 
 [[THuman Dataset]](https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset) Containing 6k (200 subjects x 30 poses) scans from a single RGBD sensor, with SMPL annotations. 
 
